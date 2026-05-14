@@ -1,0 +1,24 @@
+[submodule "MLSys/LLM-bottomsup/resource/course/stanford-cs-229-machine-learning"]
+	path = MLSys/LLM-bottomsup/resource/course/stanford-cs-229-machine-learning
+	url = https://github.com/afshinea/stanford-cs-229-machine-learning
+[submodule "MLSys/LLM-bottomsup/resource/course/stanford-cme-295-transformers-large-language-models"]
+	path = MLSys/LLM-bottomsup/resource/course/stanford-cme-295-transformers-large-language-models
+	url = https://github.com/afshinea/stanford-cme-295-transformers-large-language-models.git
+[submodule "MLOps/Agents/resources/oracle-ai-developer-hub"]
+	path = MLOps/Agents/resources/oracle-ai-developer-hub
+	url = https://github.com/piyja/oracle-ai-developer-hub.git
+[submodule "MLOps/Agents/30-Agents-Every-AI-Engineer-Must-Build"]
+	path = MLOps/Agents/30-Agents-Every-AI-Engineer-Must-Build
+	url = https://github.com/PacktPublishing/30-Agents-Every-AI-Engineer-Must-Build.git
+[submodule "MLOps/Agents/TradingAgents"]
+	path = MLOps/Agents/TradingAgents
+	url = https://github.com/TauricResearch/TradingAgents.git
+[submodule "MLSys/LLM-bottomsup/resource/llama2.c"]
+	path = MLSys/LLM-bottomsup/resource/llama2.c
+	url = https://github.com/karpathy/llama2.c.git
+[submodule "MLSys/LLM-bottomsup/resource/courses/stanford-cme-295-transformers-large-language-models"]
+	path = MLSys/LLM-bottomsup/resource/courses/stanford-cme-295-transformers-large-language-models
+	url = https://github.com/afshinea/stanford-cme-295-transformers-large-language-models.git
+[submodule "MLSys/LLM-bottomsup/resource/courses/stanford-cs-229-machine-learning"]
+	path = MLSys/LLM-bottomsup/resource/courses/stanford-cs-229-machine-learning
+	url = https://github.com/afshinea/stanford-cs-229-machine-learning

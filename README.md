@@ -13,15 +13,18 @@ There is heavy overlap between the two fields, as both MLOps and MLSys are conce
 
 - ML-raw - Raw code and notes related to machine learning models and algorithms.
 - MLOps
-    Chip Nyugens
-    Lil'Log
-    deeplearnings .ai course
+    - 2. Chip Nyugens - form a roadmap for learning MLOps - 10 course modules on MLOps and MLSys
+    - 1. Lil'Log - on Agentic AI assistant systems
+    - 3. deeplearnings .ai course
+    - 4. MS github modules
 - MLSys
     Zero to hero in LLMs - https://karpathy.ai/zero-to-hero.html
     CUDA understanding - https://modal.com/gpu-glossary/device-hardware/cuda-device-architecture 
 
 inPipe:
 Course work on LLMs basics - 
-    - https://training-large-models-course.github.io/
-    - Fast.ai course
+    - LLM while inference - in C++
+    - Fast.ai course ->
+    - https://training-large-models-course.github.io/ -> GPT in basic C++
     - Youtube courses on LLMs 
+    
